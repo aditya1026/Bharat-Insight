@@ -1,0 +1,27 @@
+[
+  {
+    "state": "Uttar Pradesh",
+    "year": 2022,
+    "population": 230000000
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2022,
+    "population": 125000000
+  },
+  {
+    "state": "Bihar",
+    "year": 2022,
+    "population": 124000000
+  },
+  {
+    "state": "West Bengal",
+    "year": 2022,
+    "population": 98000000
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2022,
+    "population": 85000000
+  }
+]
